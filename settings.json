@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheSworld.aternos.me:37403",
+    "ip": "TheSworld.aternos.me",
     "port": 37403,
     "version": "",
     "try-creative": false
