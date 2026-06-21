@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Amer",
-    "password": "",
+    "password": "cha1o178",
     "type": "offline"
   },
   "server": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Amer krokodil",
+        "Amer cmar",
+        "Amer gurda"
       ]
     },
     "chat-log": true,
